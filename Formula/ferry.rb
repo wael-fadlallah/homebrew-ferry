@@ -1,7 +1,7 @@
 class Ferry < Formula
   desc "Local network file sharing tool with CLI and web interface"
   homepage "https://github.com/wael-fadlallah/ferry"
-  version "1.0.0"
+  version "0.1.1"
 
   on_macos do
     if Hardware::CPU.arm?
